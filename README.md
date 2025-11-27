@@ -68,8 +68,8 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/scientific-python-calculations.git
-cd scientific-python-calculations
+git clone https://github.com/Crimsn-moon/scientific-calculations.git
+cd scientific-calculations
 ```
 
 ### Install Dependencies
@@ -112,7 +112,7 @@ sim.plot()
 
 ## 📂 Modules
 ```
-scientific-python-calculations/
+scientific-calculations/
 ├── numerical_methods/
 │   ├── integration.py
 │   ├── differentiation.py
@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions, suggestions, or collaboration opportunities, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions, suggestions, or collaboration opportunities, please open an issue on this repository.
 
 ---
 
